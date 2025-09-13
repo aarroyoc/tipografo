@@ -1,0 +1,21 @@
+Name: PolarSys B612
+Description:
+<p>B612 is an highly legible open source font family designed and tested to be used on aircraft cockpit screens.</p>
+<p>Main characteristics are:</p>
+<ul>
+  <li>Maximize the distance between the forms of the characters</li>
+  <li>Respect the primitives of the different letters</li>
+  <li>Harmonize the forms and their spacing</li>
+</ul>
+
+Author: AIRBUS (airbus-group.com)
+License: B612-OFL.txt
+File: B612-Regular.ttf
+File: B612-Bold.ttf
+File: B612-BoldItalic.ttf
+File: B612-Italic.ttf
+File: B612Mono-Bold.ttf
+File: B612Mono-BoldItalic.ttf
+File: B612Mono-Italic.ttf
+File: B612Mono-Regular.ttf
+===
