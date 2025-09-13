@@ -19,3 +19,30 @@ File: B612Mono-BoldItalic.ttf
 File: B612Mono-Italic.ttf
 File: B612Mono-Regular.ttf
 ===
+Name: Routed Gothic
+Description:
+<p>A clean implementation of a common lettering style found on technical drawings, engraved office signs, computer and typewriter keyboards, and some comic books and avionics from the mid-20th century.</p>
+<p>It’s ugly, and therein lies its beauty.</p>
+
+Author: Darren Embry
+License: SIL-OFL-v1.1.txt
+File: routed-gothic.ttf
+File: routed-gothic-italic.ttf
+File: routed-gothic-half-italic.ttf
+File: routed-gothic-narrow.ttf
+File: routed-gothic-narrow-italic.ttf
+File: routed-gothic-narrow-half-italic.ttf
+File: routed-gothic-wide.ttf
+File: routed-gothic-wide-italic.ttf
+File: routed-gothic-wide-half-italic.ttf
+===
+Name: Google Sans Code
+Description:
+<p>Google Sans Code is a fixed-width font family, designed to bring clarity, readability, and a bit of Google's distinctive brand character to code. Stemming from Google's brand type design aesthetic and developed for products like Gemini and Android Studio, it ensures each character remains distinct, even at small sizes. Moreover, it's finely tuned for the unique typographic demands of programming language syntax.</p>
+
+Author: The Google Sans Code Project Authors (github.com/googlefonts/googlesans-code)
+License: GoogleSansCode-OFL.txt
+File: GoogleSansCode.ttf
+File: GoogleSansCodeItalic.ttf
+===
+
