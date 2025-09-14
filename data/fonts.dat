@@ -14,10 +14,23 @@ File: B612-Regular.ttf
 File: B612-Bold.ttf
 File: B612-BoldItalic.ttf
 File: B612-Italic.ttf
+===
+Name: PolarSys B612 Mono
+Description:
+<p>B612 is an highly legible open source font family designed and tested to be used on aircraft cockpit screens. This is the Mono version.</p>
+<p>Main characteristics are:</p>
+<ul>
+  <li>Maximize the distance between the forms of the characters</li>
+  <li>Respect the primitives of the different letters</li>
+  <li>Harmonize the forms and their spacing</li>
+</ul>
+
+Author: AIRBUS (airbus-group.com)
+License: B612-OFL.txt
+File: B612Mono-Regular.ttf
 File: B612Mono-Bold.ttf
 File: B612Mono-BoldItalic.ttf
 File: B612Mono-Italic.ttf
-File: B612Mono-Regular.ttf
 ===
 Name: Routed Gothic
 Description:
@@ -45,4 +58,494 @@ License: GoogleSansCode-OFL.txt
 File: GoogleSansCode.ttf
 File: GoogleSansCodeItalic.ttf
 ===
+Name: JetBrains Mono
+Description:
+<p>JetBrains Mono is available as a standalone download, and is also bundled in all JetBrains IDEs. Discover more font features & design on its web page.</p>
+<p>Default version of JetBrains Mono comes with OpenType features and ligatures (which can always be toggled on & off in the settings).</p>
 
+Author: The JetBrains Mono Project Authors (https://github.com/JetBrains/JetBrainsMono)
+License: JetBrainsMono-OFL.txt
+File: JetBrainsMono.ttf
+File: JetBrainsMono-Italic.ttf
+===
+Name: Ubuntu
+Description:
+<p>The Ubuntu font family are a set of matching new libre/open fonts. The development is being funded by Canonical on behalf the wider Free Software community and the Ubuntu project. The technical font design work and implementation is being undertaken by Dalton Maag.</p>
+<p>Both the final font Truetype/OpenType files and the design files used to produce the font family are distributed under an open licence and you are expressly encouraged to experiment, modify, share and improve. The typeface is sans-serif, uses OpenType features and is manually hinted for clarity on desktop and mobile computing screens.</p>
+<p>The scope of the Ubuntu Font Family includes all the languages used by the various Ubuntu users around the world in tune with Ubuntu's philosophy which states that every user should be able to use their software in the language of their choice. So the Ubuntu Font Family project will be extended to cover many more written languages.</p>
+
+Author: Canonical Ltd.
+License: Ubuntu-OFL.txt
+File: Ubuntu-R.ttf
+File: Ubuntu-B.ttf
+File: Ubuntu-C.ttf
+File: Ubuntu-L.ttf
+File: Ubuntu-M.ttf
+File: Ubuntu-BI.ttf
+File: Ubuntu-LI.ttf
+File: Ubuntu-MI.ttf
+File: Ubuntu-RI.ttf
+File: Ubuntu-Th.ttf
+===
+Name: Ubuntu Mono
+Description:
+<p>The Ubuntu font family are a set of matching new libre/open fonts. The development is being funded by Canonical on behalf the wider Free Software community and the Ubuntu project. The technical font design work and implementation is being undertaken by Dalton Maag.</p>
+<p>Both the final font Truetype/OpenType files and the design files used to produce the font family are distributed under an open licence and you are expressly encouraged to experiment, modify, share and improve. The typeface is sans-serif, uses OpenType features and is manually hinted for clarity on desktop and mobile computing screens.</p>
+<p>The scope of the Ubuntu Font Family includes all the languages used by the various Ubuntu users around the world in tune with Ubuntu's philosophy which states that every user should be able to use their software in the language of their choice. So the Ubuntu Font Family project will be extended to cover many more written languages.</p>
+
+Author: Canonical Ltd.
+License: Ubuntu-OFL.txt
+File: UbuntuMono-R.ttf
+File: UbuntuMono-BI.ttf
+File: UbuntuMono-RI.ttf
+File: UbuntuMono-B.ttf
+===
+Name: Intel One Mono
+Description:
+<p>Introducing Intel One Mono, an expressive monospaced font family that’s built with clarity, legibility, and the needs of developers in mind.</p>
+<p>It’s easier to read, and available for free, with an open-source font license.</p>
+<p>Identifying the typographically underserved low-vision developer audience, Frere-Jones Type designed the Intel One Mono typeface in partnership with the Intel Brand Team and VMLY&R, for maximum legibility to address developers' fatigue and eyestrain and reduce coding errors. A panel of low-vision and legally blind developers provided feedback at each stage of design.</p>
+<p>Intel One Mono also covers a wide range of over 200 languages using the Latin script. The Intel One Mono fonts are provided in four weights — Light, Regular, Medium, and Bold — with matching italics, and we are happy to share both an official release of fonts ready to use as well as editable sources.</p>
+
+Author: Intel Corp. and Frere-Jones Type
+License: IntelOneMono-OFL.txt
+File: IntelOneMono-Regular.otf
+File: IntelOneMono-Bold.otf
+File: IntelOneMono-Light.otf
+File: IntelOneMono-Italic.otf
+File: IntelOneMono-Medium.otf
+File: IntelOneMono-BoldItalic.otf
+File: IntelOneMono-LightItalic.otf
+File: IntelOneMono-MediumItalic.otf
+===
+Name: IBM Plex Serif
+Description:
+<p>Meet the IBM Plex® typeface, our corporate typeface family. It’s global, it’s versatile and it’s distinctly IBM.</p>
+<p>We designed the IBM Plex typeface carefully to meet our needs as a global tech company and express who we are as IBMers. It took two years and a lot of work to get here, but today, we have a signature typeface we’re proud of and excited to share with the world. Discover more about our development of the IBM Plex typeface.</p>
+<p>The IBM Plex typeface is an open-source project available for download and various uses following the Open Font License (OFL). The IBM Plex family comes in Sans, Serif, Mono, and Sans Condensed, all with Roman and true italics. Plex has been designed to work well in user interface (UI) environments and other mediums. This project provides all source files and multiple formats to support most typographical situations. Currently, IBM Plex Sans supports extended Latin, Arabic, Chinese (Traditional), Cyrillic, Devanagari, Greek, Hebrew, Japanese, Korean, and Thai.</p>
+<p>Additionally, we have introduced IBM Plex® Math. This highly anticipated release includes over 5,000 new glyphs, covering a wide range of mathematical symbols such as alphanumeric, double-struck, Fraktur, operators, script, icons, arrows, Greek letters, phonetics, technical and geometric shapes — making it one of the most complete math fonts available today. IBM Plex Math provides a fresh and comprehensive alternative to STIX and Microsoft’s Cambria. Its compatibility with IBM Plex Serif Regular makes it an ideal choice for IBM researchers and mathematicians.</p>
+<p>Thanks for trying the IBM Plex typeface! We hope you like it.</p>
+
+Author: IBM Corp.
+License: IBM-OFL.txt
+File: IBMPlexSerif-Regular.otf
+File: IBMPlexSerif-Bold.otf
+File: IBMPlexSerif-BoldItalic.otf
+File: IBMPlexSerif-ExtraLight.otf
+File: IBMPlexSerif-ExtraLightItalic.otf
+File: IBMPlexSerif-Italic.otf
+File: IBMPlexSerif-Light.otf
+File: IBMPlexSerif-LightItalic.otf
+File: IBMPlexSerif-Medium.otf
+File: IBMPlexSerif-MediumItalic.otf
+File: IBMPlexSerif-SemiBold.otf
+File: IBMPlexSerif-SemiBoldItalic.otf
+File: IBMPlexSerif-Text.otf
+File: IBMPlexSerif-TextItalic.otf
+File: IBMPlexSerif-Thin.otf
+File: IBMPlexSerif-ThinItalic.otf
+===
+Name: IBM Plex Sans
+Description:
+<p>Meet the IBM Plex® typeface, our corporate typeface family. It’s global, it’s versatile and it’s distinctly IBM.</p>
+<p>We designed the IBM Plex typeface carefully to meet our needs as a global tech company and express who we are as IBMers. It took two years and a lot of work to get here, but today, we have a signature typeface we’re proud of and excited to share with the world. Discover more about our development of the IBM Plex typeface.</p>
+<p>The IBM Plex typeface is an open-source project available for download and various uses following the Open Font License (OFL). The IBM Plex family comes in Sans, Serif, Mono, and Sans Condensed, all with Roman and true italics. Plex has been designed to work well in user interface (UI) environments and other mediums. This project provides all source files and multiple formats to support most typographical situations. Currently, IBM Plex Sans supports extended Latin, Arabic, Chinese (Traditional), Cyrillic, Devanagari, Greek, Hebrew, Japanese, Korean, and Thai.</p>
+<p>Additionally, we have introduced IBM Plex® Math. This highly anticipated release includes over 5,000 new glyphs, covering a wide range of mathematical symbols such as alphanumeric, double-struck, Fraktur, operators, script, icons, arrows, Greek letters, phonetics, technical and geometric shapes — making it one of the most complete math fonts available today. IBM Plex Math provides a fresh and comprehensive alternative to STIX and Microsoft’s Cambria. Its compatibility with IBM Plex Serif Regular makes it an ideal choice for IBM researchers and mathematicians.</p>
+<p>Thanks for trying the IBM Plex typeface! We hope you like it.</p>
+
+Author: IBM Corp.
+License: IBM-OFL.txt
+File: IBMPlexSans-Regular.otf
+File: IBMPlexSans-Bold.otf
+File: IBMPlexSans-BoldItalic.otf
+File: IBMPlexSans-ExtraLight.otf
+File: IBMPlexSans-ExtraLightItalic.otf
+File: IBMPlexSans-Italic.otf
+File: IBMPlexSans-Light.otf
+File: IBMPlexSans-LightItalic.otf
+File: IBMPlexSans-Medium.otf
+File: IBMPlexSans-MediumItalic.otf
+File: IBMPlexSans-SemiBold.otf
+File: IBMPlexSans-SemiBoldItalic.otf
+File: IBMPlexSans-Text.otf
+File: IBMPlexSans-TextItalic.otf
+File: IBMPlexSans-Thin.otf
+File: IBMPlexSans-ThinItalic.otf
+===
+Name: IBM Plex Mono
+Description:
+<p>Meet the IBM Plex® typeface, our corporate typeface family. It’s global, it’s versatile and it’s distinctly IBM.</p>
+<p>We designed the IBM Plex typeface carefully to meet our needs as a global tech company and express who we are as IBMers. It took two years and a lot of work to get here, but today, we have a signature typeface we’re proud of and excited to share with the world. Discover more about our development of the IBM Plex typeface.</p>
+<p>The IBM Plex typeface is an open-source project available for download and various uses following the Open Font License (OFL). The IBM Plex family comes in Sans, Serif, Mono, and Sans Condensed, all with Roman and true italics. Plex has been designed to work well in user interface (UI) environments and other mediums. This project provides all source files and multiple formats to support most typographical situations. Currently, IBM Plex Sans supports extended Latin, Arabic, Chinese (Traditional), Cyrillic, Devanagari, Greek, Hebrew, Japanese, Korean, and Thai.</p>
+<p>Additionally, we have introduced IBM Plex® Math. This highly anticipated release includes over 5,000 new glyphs, covering a wide range of mathematical symbols such as alphanumeric, double-struck, Fraktur, operators, script, icons, arrows, Greek letters, phonetics, technical and geometric shapes — making it one of the most complete math fonts available today. IBM Plex Math provides a fresh and comprehensive alternative to STIX and Microsoft’s Cambria. Its compatibility with IBM Plex Serif Regular makes it an ideal choice for IBM researchers and mathematicians.</p>
+<p>Thanks for trying the IBM Plex typeface! We hope you like it.</p>
+
+Author: IBM Corp.
+License: IBM-OFL.txt
+File: IBMPlexMono-Regular.otf
+File: IBMPlexMono-Bold.otf
+File: IBMPlexMono-BoldItalic.otf
+File: IBMPlexMono-ExtraLight.otf
+File: IBMPlexMono-ExtraLightItalic.otf
+File: IBMPlexMono-Italic.otf
+File: IBMPlexMono-Light.otf
+File: IBMPlexMono-LightItalic.otf
+File: IBMPlexMono-Medium.otf
+File: IBMPlexMono-MediumItalic.otf
+File: IBMPlexMono-SemiBold.otf
+File: IBMPlexMono-SemiBoldItalic.otf
+File: IBMPlexMono-Text.otf
+File: IBMPlexMono-TextItalic.otf
+File: IBMPlexMono-Thin.otf
+File: IBMPlexMono-ThinItalic.otf
+===
+Name: IBM Plex Math
+Description:
+<p>Meet the IBM Plex® typeface, our corporate typeface family. It’s global, it’s versatile and it’s distinctly IBM.</p>
+<p>We designed the IBM Plex typeface carefully to meet our needs as a global tech company and express who we are as IBMers. It took two years and a lot of work to get here, but today, we have a signature typeface we’re proud of and excited to share with the world. Discover more about our development of the IBM Plex typeface.</p>
+<p>The IBM Plex typeface is an open-source project available for download and various uses following the Open Font License (OFL). The IBM Plex family comes in Sans, Serif, Mono, and Sans Condensed, all with Roman and true italics. Plex has been designed to work well in user interface (UI) environments and other mediums. This project provides all source files and multiple formats to support most typographical situations. Currently, IBM Plex Sans supports extended Latin, Arabic, Chinese (Traditional), Cyrillic, Devanagari, Greek, Hebrew, Japanese, Korean, and Thai.</p>
+<p>Additionally, we have introduced IBM Plex® Math. This highly anticipated release includes over 5,000 new glyphs, covering a wide range of mathematical symbols such as alphanumeric, double-struck, Fraktur, operators, script, icons, arrows, Greek letters, phonetics, technical and geometric shapes — making it one of the most complete math fonts available today. IBM Plex Math provides a fresh and comprehensive alternative to STIX and Microsoft’s Cambria. Its compatibility with IBM Plex Serif Regular makes it an ideal choice for IBM researchers and mathematicians.</p>
+<p>Thanks for trying the IBM Plex typeface! We hope you like it.</p>
+
+Author: IBM Corp.
+License: IBM-OFL.txt
+File: IBMPlexMath-Regular.otf
+===
+Name: IBM Plex Sans Simplified Chinese
+Description:
+<p>你好！这是IBM Plex，很好看！</p>
+<p>Meet the IBM Plex® typeface, our corporate typeface family. It’s global, it’s versatile and it’s distinctly IBM.</p>
+<p>We designed the IBM Plex typeface carefully to meet our needs as a global tech company and express who we are as IBMers. It took two years and a lot of work to get here, but today, we have a signature typeface we’re proud of and excited to share with the world. Discover more about our development of the IBM Plex typeface.</p>
+<p>The IBM Plex typeface is an open-source project available for download and various uses following the Open Font License (OFL). The IBM Plex family comes in Sans, Serif, Mono, and Sans Condensed, all with Roman and true italics. Plex has been designed to work well in user interface (UI) environments and other mediums. This project provides all source files and multiple formats to support most typographical situations. Currently, IBM Plex Sans supports extended Latin, Arabic, Chinese (Traditional), Cyrillic, Devanagari, Greek, Hebrew, Japanese, Korean, and Thai.</p>
+<p>Additionally, we have introduced IBM Plex® Math. This highly anticipated release includes over 5,000 new glyphs, covering a wide range of mathematical symbols such as alphanumeric, double-struck, Fraktur, operators, script, icons, arrows, Greek letters, phonetics, technical and geometric shapes — making it one of the most complete math fonts available today. IBM Plex Math provides a fresh and comprehensive alternative to STIX and Microsoft’s Cambria. Its compatibility with IBM Plex Serif Regular makes it an ideal choice for IBM researchers and mathematicians.</p>
+<p>Thanks for trying the IBM Plex typeface! We hope you like it.</p>
+
+Author: IBM Corp.
+License: IBM-OFL.txt
+File: IBMPlexSansSC-Regular.woff2
+File: IBMPlexSansSC-Regular.otf
+File: IBMPlexSansSC-Text.otf
+File: IBMPlexSansSC-Thin.otf
+File: IBMPlexSansSC-Bold.otf
+File: IBMPlexSansSC-ExtraLight.otf
+File: IBMPlexSansSC-Light.otf
+File: IBMPlexSansSC-Medium.otf
+File: IBMPlexSansSC-SemiBold.otf
+===
+Name: IBM Plex Sans Traditional Chinese
+Description:
+<p>你好！這是IBM Plex， 很好看！</p>
+<p>Meet the IBM Plex® typeface, our corporate typeface family. It’s global, it’s versatile and it’s distinctly IBM.</p>
+<p>We designed the IBM Plex typeface carefully to meet our needs as a global tech company and express who we are as IBMers. It took two years and a lot of work to get here, but today, we have a signature typeface we’re proud of and excited to share with the world. Discover more about our development of the IBM Plex typeface.</p>
+<p>The IBM Plex typeface is an open-source project available for download and various uses following the Open Font License (OFL). The IBM Plex family comes in Sans, Serif, Mono, and Sans Condensed, all with Roman and true italics. Plex has been designed to work well in user interface (UI) environments and other mediums. This project provides all source files and multiple formats to support most typographical situations. Currently, IBM Plex Sans supports extended Latin, Arabic, Chinese (Traditional), Cyrillic, Devanagari, Greek, Hebrew, Japanese, Korean, and Thai.</p>
+<p>Additionally, we have introduced IBM Plex® Math. This highly anticipated release includes over 5,000 new glyphs, covering a wide range of mathematical symbols such as alphanumeric, double-struck, Fraktur, operators, script, icons, arrows, Greek letters, phonetics, technical and geometric shapes — making it one of the most complete math fonts available today. IBM Plex Math provides a fresh and comprehensive alternative to STIX and Microsoft’s Cambria. Its compatibility with IBM Plex Serif Regular makes it an ideal choice for IBM researchers and mathematicians.</p>
+<p>Thanks for trying the IBM Plex typeface! We hope you like it.</p>
+
+Author: IBM Corp.
+License: IBM-OFL.txt
+File: IBMPlexSansTC-Regular.otf
+File: IBMPlexSansTC-Text.otf
+File: IBMPlexSansTC-Thin.otf
+File: IBMPlexSansTC-Bold.otf
+File: IBMPlexSansTC-ExtraLight.otf
+File: IBMPlexSansTC-Light.otf
+File: IBMPlexSansTC-Medium.otf
+File: IBMPlexSansTC-SemiBold.otf
+===
+Name: Noto Sans Simplified Chinese
+Description:
+<p>Noto is a global font collection for writing in all modern and ancient languages. Noto Sans SC is an unmodulated (“sans serif”) design for languages in mainland China that use the Simplified Chinese variant of the Han ideograms. It also supports Hiragana, Katakana, Latin, Cyrillic, Greek and Hangul. It has multiple weights.</p>
+
+Author: Google
+License: NotoSC-OFL.txt
+File: NotoSansSC.ttf
+===
+Name: GNU Unifont
+Description:
+<p>GNU Unifont is part of the GNU Project. This page contains the latest release of GNU Unifont, with glyphs for every printable code point in the Unicode Basic Multilingual Plane (BMP). The BMP occupies the first 65,536 code points of the Unicode space, denoted as U+0000..U+FFFF. There is also growing coverage of the Supplementary Multilingual Plane (SMP), in the range U+010000..U+01FFFF, and of Michael Everson's ConScript Unicode Registry (CSUR) with Rebecca Bettencourt's Under-CSUR additions.</p>
+
+Author: GNU Project
+License: SIL-OFL-v1.1.txt
+File: unifont-17.0.01.otf
+===
+Name: Go
+Description:
+<p>The font family, called Go (naturally), includes proportional- and fixed-width faces in normal, bold, and italic renderings. The fonts have been tested for technical uses, particularly programming. Go source code looks particularly good when displayed in Go fonts, as its name implies, with things like punctuation characters easily distinguishable and operators lined up and placed consistently.</p>
+
+Author: Bigelow & Holmes
+License: GO.txt
+File: Go-Regular.ttf
+File: Go-Smallcaps.ttf
+File: Go-Smallcaps-Italic.ttf
+File: Go-Bold.ttf
+File: Go-Bold-Italic.ttf
+File: Go-Medium.ttf
+File: Go-Medium-Italic.ttf
+===
+Name: Go Mono
+Description:
+<p>The font family, called Go (naturally), includes proportional- and fixed-width faces in normal, bold, and italic renderings. The fonts have been tested for technical uses, particularly programming. Go source code looks particularly good when displayed in Go fonts, as its name implies, with things like punctuation characters easily distinguishable and operators lined up and placed consistently.</p>
+
+Author: Bigelow & Holmes
+License: GO.txt
+File: Go-Mono.ttf
+File: Go-Mono-Bold.ttf
+File: Go-Mono-Bold-Italic.ttf
+File: Go-Mono-Italic.ttf
+===
+Name: Commit Mono
+Description:
+<p> Commit Mono is an anonymous and neutral coding font focused on creating a better reading experience.</p>
+
+Author: Eigil Nikolajsen
+License: SIL-OFL-v1.1.txt
+File: CommitMono-400-Regular.otf
+File: CommitMono-400-Italic.otf
+File: CommitMono-700-Regular.otf
+File: CommitMono-700-Italic.otf
+===
+Name: Andika
+Description:
+<p>Andika is a sans-serif font family designed and optimized especially for use as a literacy font. It supports a near-complete range of Unicode characters for the Latin and Cyrillic scripts. These two scripts are used to write thousands of languages around the world.</p>
+<p>In addition, Andika includes a comprehensive range of diacritics and character variants, making it an excellent literacy font. Also included is a large set of symbols useful for linguistic notation and description.</p>
+<p>Many literacy specialists prefer creating materials with a sans serif font – one in which the letters have no “little feet” – for teaching both children and adults to read. For years, these reading specialists have had to make do with fonts that were not really suitable for beginning readers and writers. In some cases, they have had to hunt for and then tediously assemble letters from a variety of fonts in order to get all of the characters they need for their particular language. This results in potentially confusing publications.</p>
+<p>The Andika literacy font addresses these and other issues with clear, simply designed letters. This facilitates letter recognition, a skill second only to distinguishing sounds in learning to read.</p>
+
+Author: SIL
+License: SIL-OFL-v1.1.txt
+File: Andika-Regular.ttf
+File: Andika-Bold.ttf
+File: Andika-BoldItalic.ttf
+File: Andika-Italic.ttf
+File: Andika-MediumItalic.ttf
+File: Andika-Medium.ttf
+File: Andika-SemiBoldItalic.ttf
+File: Andika-SemiBold.ttf
+===
+Name: DejaVu Sans
+Description:
+<p>The DejaVu fonts are a font family based on the Vera Fonts. Its purpose is to provide a wider range of characters while maintaining the original look and feel through the process of collaborative development (see authors), under a Free license.</p>
+
+Author: BitStream Vera and DejaVu project members
+License: DejaVu.txt
+File: DejaVuSans.ttf
+File: DejaVuSans-Oblique.ttf
+File: DejaVuSans-ExtraLight.ttf
+File: DejaVuSans-BoldOblique.ttf
+File: DejaVuSans-Bold.ttf
+===
+Name: DejaVu Sans Condensed
+Description:
+<p>The DejaVu fonts are a font family based on the Vera Fonts. Its purpose is to provide a wider range of characters while maintaining the original look and feel through the process of collaborative development (see authors), under a Free license.</p>
+
+Author: BitStream Vera and DejaVu project members
+License: DejaVu.txt
+File: DejaVuSansCondensed.ttf
+File: DejaVuSansCondensed-Oblique.ttf
+File: DejaVuSansCondensed-BoldOblique.ttf
+File: DejaVuSansCondensed-Bold.ttf
+===
+Name: DejaVu Sans Mono
+Description:
+<p>The DejaVu fonts are a font family based on the Vera Fonts. Its purpose is to provide a wider range of characters while maintaining the original look and feel through the process of collaborative development (see authors), under a Free license.</p>
+
+Author: BitStream Vera and DejaVu project members
+License: DejaVu.txt
+File: DejaVuSansMono.ttf
+File: DejaVuSansMono-Oblique.ttf
+File: DejaVuSansMono-BoldOblique.ttf
+File: DejaVuSansMono-Bold.ttf
+===
+Name: DejaVu Serif
+Description:
+<p>The DejaVu fonts are a font family based on the Vera Fonts. Its purpose is to provide a wider range of characters while maintaining the original look and feel through the process of collaborative development (see authors), under a Free license.</p>
+
+Author: BitStream Vera and DejaVu project members
+License: DejaVu.txt
+File: DejaVuSerif.ttf
+File: DejaVuSerif-Italic.ttf
+File: DejaVuSerif-Bold.ttf
+File: DejaVuSerif-BoldItalic.ttf
+===
+Name: DejaVu Serif Condensed
+Description:
+<p>The DejaVu fonts are a font family based on the Vera Fonts. Its purpose is to provide a wider range of characters while maintaining the original look and feel through the process of collaborative development (see authors), under a Free license.</p>
+
+Author: BitStream Vera and DejaVu project members
+License: DejaVu.txt
+File: DejaVuSerifCondensed.ttf
+File: DejaVuSerifCondensed-Italic.ttf
+File: DejaVuSerifCondensed-Bold.ttf
+File: DejaVuSerifCondensed-BoldItalic.ttf
+===
+Name: Monaspace Argon
+Description:
+<p>The Monaspace type system is a monospaced type superfamily with some modern tricks up its sleeve. It consists of five variable axis typefaces. Each one has a distinct voice, but they are all metrics-compatible with one another, allowing you to mix and match them for a more expressive typographical palette.</p>
+<p>Letters on a grid is how we see our code. Why not make those letters better?</p>
+
+Author: GitHub Next
+License: Monaspace.txt
+File: MonaspaceArgon.ttf
+===
+Name: Monaspace Krypton
+Description:
+<p>The Monaspace type system is a monospaced type superfamily with some modern tricks up its sleeve. It consists of five variable axis typefaces. Each one has a distinct voice, but they are all metrics-compatible with one another, allowing you to mix and match them for a more expressive typographical palette.</p>
+<p>Letters on a grid is how we see our code. Why not make those letters better?</p>
+
+Author: GitHub Next
+License: Monaspace.txt
+File: MonaspaceKrypton.ttf
+===
+Name: Monaspace Neon
+Description:
+<p>The Monaspace type system is a monospaced type superfamily with some modern tricks up its sleeve. It consists of five variable axis typefaces. Each one has a distinct voice, but they are all metrics-compatible with one another, allowing you to mix and match them for a more expressive typographical palette.</p>
+<p>Letters on a grid is how we see our code. Why not make those letters better?</p>
+
+Author: GitHub Next
+License: Monaspace.txt
+File: MonaspaceNeon.ttf
+===
+Name: Monaspace Radon
+Description:
+<p>The Monaspace type system is a monospaced type superfamily with some modern tricks up its sleeve. It consists of five variable axis typefaces. Each one has a distinct voice, but they are all metrics-compatible with one another, allowing you to mix and match them for a more expressive typographical palette.</p>
+<p>Letters on a grid is how we see our code. Why not make those letters better?</p>
+
+Author: GitHub Next
+License: Monaspace.txt
+File: MonaspaceRadon.ttf
+===
+Name: Monaspace Xenon
+Description:
+<p>The Monaspace type system is a monospaced type superfamily with some modern tricks up its sleeve. It consists of five variable axis typefaces. Each one has a distinct voice, but they are all metrics-compatible with one another, allowing you to mix and match them for a more expressive typographical palette.</p>
+<p>Letters on a grid is how we see our code. Why not make those letters better?</p>
+
+Author: GitHub Next
+License: Monaspace.txt
+File: MonaspaceXenon.ttf
+===
+Name: Cascadia Code
+Description:
+<p>Cascadia is a fun new coding font that comes bundled with Windows Terminal, and is now the default font in Visual Studio as well.</p>
+
+Author: Microsoft Corporation
+License: Microsoft-OFL.txt
+File: CascadiaCode-Regular.otf
+File: CascadiaCode-BoldItalic.otf
+File: CascadiaCode-Bold.otf
+File: CascadiaCode-ExtraLightItalic.otf
+File: CascadiaCode-ExtraLight.otf
+File: CascadiaCode-Italic.otf
+File: CascadiaCode-LightItalic.otf
+File: CascadiaCode-Light.otf
+File: CascadiaCode-SemiBoldItalic.otf
+File: CascadiaCode-SemiBold.otf
+File: CascadiaCode-SemiLightItalic.otf
+File: CascadiaCode-SemiLight.otf
+===
+Name: Fira Code
+Description:
+<p>Fira Code is a free monospaced font containing ligatures for common programming multi-character combinations. This is just a font rendering feature: underlying code remains ASCII-compatible. This helps to read and understand code faster. For some frequent sequences like .. or //, ligatures allow us to correct spacing.</p>
+
+Author: Nikita Prokopov based on Fira Mono
+License: FiraCode-OFL.txt
+File: FiraCode.ttf
+===
+Name: Source Serif
+Description:
+<p>Source Serif is an open-source typeface to complement the Source Sans family.</p>
+
+Author: Adobe
+License: Adobe-OFL.txt
+File: SourceSerif4Variable-Roman.otf
+File: SourceSerif4Variable-Italic.otf
+===
+Name: Source Code Pro
+Description:
+<p>Source Code Pro is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.</p>
+
+Author: Adobe
+License: Adobe-OFL.txt
+File: SourceCodeVF-Upright.otf
+File: SourceCodeVF-Italic.otf
+===
+Name: Source Sans
+Description:
+<p>Source Sans is a set of OpenType fonts that have been designed to work well in user interface (UI) environments.</p>
+
+Author: Adobe
+License: Adobe-OFL.txt
+File: SourceSans3VF-Upright.otf
+File: SourceSans3VF-Italic.otf
+===
+Name: Source Han Serif
+Description:
+<p>Source Han Serif is a set of OpenType Pan-CJK fonts. In addition to functional OpenType fonts, this open source project provides all of the source files that were used to build these OpenType fonts by using the AFDKO tools.</p>
+<p>你好！这是SourceHanSerif, 很好看！</p>
+
+Author: Adobe
+License: Adobe-OFL.txt
+File: SourceHanSerifSC-Regular.otf
+===
+Name: Source Han Sans
+Description:
+<p>Source Han Sans is a set of OpenType Pan-CJK fonts. In addition to functional OpenType fonts, this open source project provides all of the source files that were used to build these OpenType fonts by using the AFDKO tools.</p>
+<p>你好！这是SourceHanSans, 很好看！</p>
+
+Author: Adobe
+License: Adobe-OFL.txt
+File: SourceHanSansSC-Regular.otf
+===
+Name: Iosevka
+Description:
+<p>Iosevka [ˌjɔˈseβ.kʰa] is an open-source, sans-serif + slab-serif, monospace + quasi‑proportional typeface family, designed for writing code, using in terminals, and preparing technical documents.</p>
+
+Author: Renzhi Li (aka. Belleve Invis, belleve@typeof.net)
+License: Iosevka-OFL.txt
+File: Iosevka-Regular.ttf
+File: Iosevka-Italic.ttf
+File: Iosevka-Bold.ttf
+File: Iosevka-BoldItalic.ttf
+===
+Name: Iosevka Aile
+Description:
+<p>Iosevka [ˌjɔˈseβ.kʰa] is an open-source, sans-serif + slab-serif, monospace + quasi‑proportional typeface family, designed for writing code, using in terminals, and preparing technical documents.</p>
+
+Author: Renzhi Li (aka. Belleve Invis, belleve@typeof.net)
+License: Iosevka-OFL.txt
+File: IosevkaAile-Regular.ttf
+File: IosevkaAile-Italic.ttf
+File: IosevkaAile-Bold.ttf
+File: IosevkaAile-BoldItalic.ttf
+===
+Name: Iosevka Slab
+Description:
+<p>Iosevka [ˌjɔˈseβ.kʰa] is an open-source, sans-serif + slab-serif, monospace + quasi‑proportional typeface family, designed for writing code, using in terminals, and preparing technical documents.</p>
+
+Author: Renzhi Li (aka. Belleve Invis, belleve@typeof.net)
+License: Iosevka-OFL.txt
+File: IosevkaSlab-Regular.ttf
+File: IosevkaSlab-Italic.ttf
+File: IosevkaSlab-Bold.ttf
+File: IosevkaSlab-BoldItalic.ttf
+===
+Name: Iosevka Etoile
+Description:
+<p>Iosevka [ˌjɔˈseβ.kʰa] is an open-source, sans-serif + slab-serif, monospace + quasi‑proportional typeface family, designed for writing code, using in terminals, and preparing technical documents.</p>
+
+Author: Renzhi Li (aka. Belleve Invis, belleve@typeof.net)
+License: Iosevka-OFL.txt
+File: IosevkaEtoile-Regular.ttf
+File: IosevkaEtoile-Italic.ttf
+File: IosevkaEtoile-Bold.ttf
+File: IosevkaEtoile-BoldItalic.ttf
+===
+Name: Sarasa Gothic
+Description:
+<p>This is SARASA GOTHIC, a CJK composite font based on Inter, Iosevka and Source Han Sans.</p>
+<p>你好！这是Sarasa Gothic, 很好看！</p>
+
+Author: Renzhi Li (aka. Belleve Invis, belleve@typeof.net)
+License: Iosevka-OFL.txt
+File: SarasaGothicSC-Regular.ttf
+File: SarasaGothicTC-Regular.ttf
+===

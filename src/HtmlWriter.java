@@ -28,12 +28,13 @@ public class HtmlWriter{
 
         .font-item {
           width: 20rem;
+          margin: 1rem;
         }
       </style>
       </head>
       <body>
         <h1>Tipógrafo</h1>
-        <p>Una colección de tipografías de calidad con licencias que permiten la redistribución gratuita.</p>
+        <p>A collection of high quality typographies with free licenses that allow redistribution.</p>
         <div id="fonts">
     """;
 
@@ -48,11 +49,11 @@ public class HtmlWriter{
             <h2>{0}</h2>{1}
                   <p>
                     <a href="{2}">
-                      Leer texto de licencia
+                      Read license text
                     </a>
                   </p>
               <a href="#descargar{0}">
-                Ver descargas
+                Go to downloads
               </a>
             </section>
         """;
